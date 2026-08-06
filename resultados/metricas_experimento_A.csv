@@ -1,0 +1,5 @@
+﻿modelo,MAE,RMSE,R2,experimento,numero_variables
+Regresión Lineal,0.0583,0.1311,0.9999,A,76
+HistGradientBoosting,0.4509,1.145,0.9914,A,76
+Random Forest,0.8318,1.4499,0.9862,A,76
+Dummy Regressor,10.6357,12.3758,-0.0023,A,76

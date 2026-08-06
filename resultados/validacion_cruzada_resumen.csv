@@ -1,0 +1,4 @@
+﻿metrica,promedio,desviacion_estandar,minimo,maximo
+MAE,0.4976,0.1299,0.396,0.7081
+RMSE,1.2017,0.4824,0.8032,1.9672
+R2,0.9885,0.0098,0.9723,0.9958
