@@ -61,3 +61,9 @@ El modelo principal de ModaPredict AI es:
 
 ```text
 HistGradientBoostingRegressor
+
+## Demo en línea
+
+🌐 Aplicación desplegada:
+
+https://modapredict-ai.onrender.com
